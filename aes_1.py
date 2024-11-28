@@ -1,5 +1,5 @@
 from collections import deque
-
+# list all the function that needed to combine the aes.
 class AES:
     def __init__(self):
         self.Nb = None
